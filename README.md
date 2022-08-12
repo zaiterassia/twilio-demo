@@ -2,7 +2,7 @@
 
 # install twilio-cli
 
-1. exécute powershell as administrator
+1. execute powershell as administrator
 2. run command `scoop bucket add twilio-scoop https://github.com/twilio/scoop-twilio-cli`
 3. run command `scoop install twilio`
 4. run command `twilio autocomplete`  
